@@ -17,7 +17,7 @@ defultvideoSub = "any"
 
 # 채널id와 토큰을 입력해주세요.
 channel = discord.Object(id='##################')
-token = "###########################################################"
+token = "NTU5NzQ2NjgzNzk4NDIxNTA1.D3p4ZA.JySkS7w45BU7gxR5fVbtK2AHl9o"
 
 
 
