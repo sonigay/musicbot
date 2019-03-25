@@ -1,1 +1,1 @@
-worker: python 짱구.py
+worker: python SubBot_Music.py
