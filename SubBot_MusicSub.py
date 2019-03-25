@@ -30,8 +30,8 @@ from discord.ext import commands
 # 템포가 빠른 자막은 딜레이가 심해집니다..
 
 # 봇이 입력될 채팅 채널 아이디와 토큰을 적어주세요.
-channel = discord.Object(id='##################')
-token = "###########################################################"
+channel = discord.Object(id='498586925440172043')
+token = "NTU5NzQ2NjgzNzk4NDIxNTA1.D3p4ZA.JySkS7w45BU7gxR5fVbtK2AHl9o"
 
 # 자막이 시작 될 때 싱크가 맞지않다면 수정해주세요 기본 값: 6.5초
 # 영상이 짧거나 길때 약간씩 어긋납니다. 그 점 양해해주세요
